@@ -1,5 +1,6 @@
+🦀 Rust Clap CLI Boilerplate 🦀
 
-# Rust Clap cli boilerplate.
+A simple boilerplate for creating command-line interfaces in Rust using the Clap library.
 
 # installation
 
